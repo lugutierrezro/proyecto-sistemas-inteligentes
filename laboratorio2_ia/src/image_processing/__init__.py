@@ -1,0 +1,3 @@
+"""
+Paquete image_processing.
+"""
