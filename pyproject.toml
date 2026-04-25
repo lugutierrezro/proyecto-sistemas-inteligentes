@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "laboratorio3-ia"
+version = "0.1.0"
+description = "Laboratorio 3 de Sistemas Inteligentes"
+authors = ["Usuario <usuario@example.com>"]
+
+[tool.kedro]
+package_name = "laboratorio3_kedro"
+project_name = "Proyecto Kedro - Laboratorio 3"
+kedro_init_version = "1.3.1"
+[tool.kedro_telemetry]
+project_id = "7536c364a85942bfb6377afff2e06e6e"
