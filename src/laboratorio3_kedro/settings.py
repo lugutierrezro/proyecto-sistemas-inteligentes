@@ -1,0 +1,7 @@
+"""Configuración mínima de Kedro para el proyecto."""
+from kedro.framework.project import settings
+
+HOOKS = settings.HOOKS
+DISABLE_HOOKS_FOR_PLUGINS = settings.DISABLE_HOOKS_FOR_PLUGINS
+SESSION_STORE_CLASS = settings.SESSION_STORE_CLASS
+SESSION_STORE_ARGS = settings.SESSION_STORE_ARGS
